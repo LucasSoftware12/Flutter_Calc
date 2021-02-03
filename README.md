@@ -11,3 +11,5 @@ https://developer.android.com/studio
 https://flutter.dev/docs/development/packages-and-plugins/using-packages
 
 # Run main.dart
+
+![alt text](https://github.com/LucasSoftware12/Flutter_Calc/blob/master/Screenshot.png)
